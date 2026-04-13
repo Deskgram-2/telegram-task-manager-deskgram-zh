@@ -29,6 +29,14 @@
 3. 用筛选功能聚焦需要关注的任务。
 4. 在需要时打开历史或停止异常流程。
 
+## 这里最适合监控哪些执行场景
+
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)，当你需要看 AI 评论活动和错误时；
+- [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，当触达流程跨多个账号并行运行时；
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)，当多个采集任务同时进行时；
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，当邀请进度和失败情况需要被持续看到时；
+- [加群模块](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，当账号活跃流程也需要统一运维监控时。
+
 ## 适合在什么情况下使用
 
 - 当多个模块同时运行；
@@ -52,6 +60,9 @@
 - [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)
 - [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)
 - [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
+- [加群模块](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)
 
 ## FAQ
 
