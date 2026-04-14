@@ -54,6 +54,22 @@
 | 问题任务定位更慢 | 内置任务级快速控制 |
 | 错误容易被忽略 | 状态可见性更高 |
 
+## 适用场景
+
+- 当 [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)、[私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh) 和 [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh) 同时运行时，集中控制并行活动；
+- 监控像 [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh) 这样的 AI 模块，方便更快发现错误；
+- 在基础设施准备完成后，持续观察执行层的运行状态；
+- 为团队提供一个统一运维面板，在多个 Deskgram 2 工作流并行时减少混乱。
+
+## 该选哪个：任务管理器还是账号面板
+
+| 如果你的目标是 | 更适合哪个 |
+|---|---|
+| 看到当前有哪些流程在运行、状态如何 | `任务管理器` |
+| 为新场景准备账号子集 | [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh) |
+| 快速停止异常流程并查看历史 | `任务管理器` |
+| 管理账号基础而不是执行状态 | [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh) |
+
 ## 相关仓库
 
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
