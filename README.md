@@ -1,15 +1,15 @@
-# Deskgram 2 任务管理器
+﻿# Deskgram 2 任务管理器
 
 任务管理器是 Deskgram 2 中用于监控 Telegram 自动化流程的看板。它把任务表格、筛选、状态、统计和快速控制动作放在一个操作视图里。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=cn)
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/tasks)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ftasks&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/app-demo/tasks)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ftasks&lang=cn)
 
-任务计划器: [打开调度器](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fscheduler)
+任务计划器: [打开调度器](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fscheduler&lang=cn)
 
 
 
@@ -98,3 +98,4 @@
 ### 它最适合什么场景？
 
 最适合多个 Telegram 场景并行执行的时候。
+
